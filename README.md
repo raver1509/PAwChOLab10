@@ -18,6 +18,8 @@ Polecenia te powinny dowieść, że wszystkie trzy serwery poprawnie wyświetlaj
 html a logi serwerów zostały poprawnie zapisane i są dostępne w systemie macierzystym
 (z poziomu wykorzystywanego komputera, laptopa)
 
+# Wykonanie polecenia
+
 Utworzenie sieci bridge o nazwie lab10net
 ![image](https://github.com/raver1509/PAwChOLab10/assets/36925740/3c6f4791-caab-4270-9d00-d8e67b1a2a7a)
 
