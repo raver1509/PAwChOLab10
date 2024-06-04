@@ -24,7 +24,7 @@ Utworzenie sieci bridge o nazwie lab10net <br />
 ![image](https://github.com/raver1509/PAwChOLab10/assets/36925740/3c6f4791-caab-4270-9d00-d8e67b1a2a7a)
 
 Utworzenie pliku html zawierającego stronę z informacją o imieniu i nazwisku studenta oraz numer laboratorium <br />
-![image](https://github.com/raver1509/PAwChOLab10/assets/36925740/e8fe101c-b466-4900-a5aa-70df6cca7bad)
+![image](https://github.com/raver1509/PAwChOLab10/assets/36925740/e8fe101c-b466-4900-a5aa-70df6cca7bad) <br />
 ![image](https://github.com/raver1509/PAwChOLab10/assets/36925740/0b8c39bd-ce9a-40d9-b6aa-dac55a914490)
 
 Stworzenie katalogów na logi <br />
